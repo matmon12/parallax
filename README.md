@@ -45,7 +45,7 @@ Website using parallax effect when scrolling.
 
 The following tools were used in this project:
 
-- [GSAP](httpshttps://gsap.com/)
+- [GSAP](https://gsap.com/)
 
 ## :white_check_mark: Requirements
 
